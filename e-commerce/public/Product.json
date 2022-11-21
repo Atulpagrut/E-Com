@@ -1,0 +1,48 @@
+
+[
+    {
+        "name":"iPhone 13 Pro Max",
+        "price":"95500",
+        "detail":"Owner iPhone",
+        "image":"https://tse1.mm.bing.net/th?id=OIP.gmTjNWvxwsNxUlG6lXOxmgHaHa&pid=Api&P=0"
+    },
+    {
+        "name":"boAt Rockerz 245 pro",
+        "price":"1000",
+        "detail":"Bluetooth Neckband with Beast™ Mode(Super Low Latency) for Gaming, ENx™ Tech for Clear Calls, ASAP™ Charge, 20HRS Playtime,IPX4, Dual Pairing & BT v5.3(Fiery Black)",
+        "image":"https://m.media-amazon.com/images/I/61DHTu6aisL._SX522_.jpg"
+    },
+    {
+        "name":"Acer Aspire 5",
+        "price":"63000",
+        "detail":"Acer Aspire 5 Gaming Laptop Intel Core i5 12th gen (12-Cores) Processor (16 GB/512 GB SSD/Windows 11 Home/4GB Graphics/NVIDIA GeForce RTX 2050) A515-57G (15.6 inch Full HD Display, Steel Gray, 1.8 Kg)",
+        "image":"https://m.media-amazon.com/images/I/61gGtqfZFlL._SX522_.jpg"
+    },
+    {
+        "name":"Campus",
+        "price":"700",
+        "detail":"Campus Men's Maxico Running Shoes",
+        "image":"https://m.media-amazon.com/images/I/71nq22jNyfL._UY695_.jpg"
+    },
+    {
+        "name":"Tata Salt",
+        "price":"90",
+        "detail":"Tata Salt, Vacuum Evaporated Iodised, 1kg Pouch",
+        "image":"https://m.media-amazon.com/images/I/61QFVvhrdmL._SX679_.jpg"
+    },
+    {
+        "name":"iPhone 13 Pro Max",
+        "price":"95500",
+        "detail":"Owner iPhone",
+        "image":"https://tse1.mm.bing.net/th?id=OIP.gmTjNWvxwsNxUlG6lXOxmgHaHa&pid=Api&P=0"
+    },
+    {
+        "name":"New Choice",
+        "price":"500",
+        "detail":"New Choice Leather Men's Jacket",
+        "image":"https://m.media-amazon.com/images/I/71MyEoXmDzL._UY879_.jpg"
+    }
+    
+    
+
+]
