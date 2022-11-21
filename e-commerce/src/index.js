@@ -4,14 +4,16 @@ import './index.css';
 import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap';
-import Cart from './pages/Cart/Cart';
+import Register from './pages/Regiter/Register';
+// import Cart from './pages/Cart/Cart';
 // import Home from './pages/Home/Home';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   // <React.StrictMode>
-    <Cart/>
+    // <Cart/>
     // <Home/>
+    < Register/>
   // </React.StrictMode>
 );
 

@@ -13,7 +13,7 @@ function Home() {
   // let data = "My Data";
 
   useEffect(() => {
-    fetch("Product.json")
+    fetch("https://fakestoreapi.com/products")
       // calling json function.
       .then((res) => res.json())
       // listening for json function to return.
